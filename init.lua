@@ -9,7 +9,7 @@
 
 local exploit_identity = 3 -- assuming your exploits thread is level 3, unc makes it easier
 
-function getthreadidentity() 
+function getthreadidentity()  -- theres another way to do it via message logging?? but this is better
    return exploit_identity
 end
 
