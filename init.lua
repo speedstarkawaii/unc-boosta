@@ -2,7 +2,6 @@
    Title: Unc Booster
    Desc: Allows users with a bad script environment to run more scripts
    Author: speedsterkawaii
-   UNDER A LICENSE
 ]]
 
 -- identity functions
