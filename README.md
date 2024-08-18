@@ -1,6 +1,6 @@
 # unc-boosta
 
-*By the developers, for the developers* - allows minimum-based executors to run more scripts
+allows minimum-based executors to run more scripts
 
 License Terms
 No Modification:
